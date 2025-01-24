@@ -1,5 +1,5 @@
-# Bamse's Solar Node info
-Information regarding LoRa solar nodes
+# Random info ;)
+Some random information regarding solar nodes used for Meshtastic and other LoRa projects.
 
 [Solar node parts list 2025](https://github.com/TheBamse/Meshtastic-Solar-Nodes/edit/main/partslist_2025.md)
 
