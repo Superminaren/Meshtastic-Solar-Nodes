@@ -40,7 +40,7 @@ https://www.amazon.se/dp/B0B835P5Y7
 <br />
 ## Solar and battery related
 #### Solar panel (both 3W and 6W used at different sites)
-3W: https://www.aliexpress.com/item/1005004561103923.html
+3W: https://www.aliexpress.com/item/1005004561103923.html<br />
 6W: https://www.aliexpress.com/item/1005006116893883.html
 #### MPPT Solar multi chemistry battery charger 
 https://www.etsy.com/listing/1609406536/mppt-solar-battery-charger-for-iot
