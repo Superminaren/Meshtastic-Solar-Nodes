@@ -1,8 +1,6 @@
-# Solar node parts list 2025
+#This is a small list of parts that currently is in use in my solar nodes in the western parts of Sweden. There are plenty of substitutes and shops where to buy this from and I've bought some of the same parts from #multiple shops depending on availability and how patient I was at the time ;)
 
-This is a small list of parts that currently is in use in my solar nodes in the western parts of Sweden. There are plenty of substitutes and shops where to buy this from and I've bought some of the same parts from multiple shops depending on availability and how patient I was at the time ;)
-
-I bought most things from "Swedish websites" (as in amazon.se ;P) and some European shops but some parts had to be was ordered via Ali and/or the US due to lack of EU-stock at the time of purchase.
+#I bought most things from "Swedish websites" (as in amazon.se ;P) and some European shops but some parts had to be was ordered via Ali and/or the US due to lack of EU-stock at the time of purchase.
 
 ## Radio and radio parts
 #### Main board RAK19007
